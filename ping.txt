@@ -1,0 +1,6 @@
+google.com
+jpittis.ca
+github.com
+facebook.com
+reddit.com
+reddit.com/this/wont/work
